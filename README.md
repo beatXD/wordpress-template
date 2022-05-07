@@ -1,6 +1,12 @@
-# wp-template
+## Wordpress - Template
+### Installing
 
-installation:
-  ``- clone the repository``
-  ``- run `docker-compose up -d --build` ``
-  visit [localhost:8080](http://localhost:8080)
+```
+$ git clone
+$ cd wordpress-template
+$ docker-compose up -d --build
+```
+### Visiting
+```
+[localhost:8080](http://localhost:8080)
+```
