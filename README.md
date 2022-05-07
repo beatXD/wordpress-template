@@ -8,5 +8,5 @@ $ docker-compose up -d --build
 ```
 ### Visiting
 ```
-[localhost:8080](http://localhost:8080)
+http://localhost:8000
 ```
